@@ -1,0 +1,93 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Introduction to Web Development",
+            "slug": "introduction-to-web-development",
+            "description": "Learn the basics of web development including HTML, CSS, and JavaScript.",
+            "price": 49.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Python Programming Masterclass",
+            "slug": "python-programming-masterclass",
+            "description": "Become a Python expert with this comprehensive masterclass.",
+            "price": 59.99,
+            "instructor": "Jane Smith",
+            "isFeatured": true,
+            "image": "https://example.com/image2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Python Programming Masterclass",
+            "slug": "python-programming-masterclass",
+            "description": "Become a Python expert with this comprehensive masterclass.",
+            "price": 59.99,
+            "instructor": "Jane Smith",
+            "isFeatured": true,
+            "image": "https://example.com/image2.jpg"
+        },
+        
+        {
+            "id": 4,
+            "title": "Graphic Design Essentials",
+            "slug": "graphic-design-essentials",
+            "description": "Master the essentials of graphic design and create stunning visuals.",
+            "price": 49.99,
+            "instructor": "Emily Brown",
+            "isFeatured": true,
+            "image": "https://example.com/image4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "JavaScript Frameworks",
+            "slug": "javascript-frameworks",
+            "description": "Explore modern JavaScript frameworks such as React, Vue, and Angular.",
+            "price": 79.99,
+            "instructor": "David Wilson",
+            "isFeatured": true,
+            "image": "https://example.com/image5.jpg"
+        }
+    ],
+    "video" : [
+        {
+            "id": 1,
+            "src": "https://www.youtube.com/embed/Su4UxLCaiwo?list=PLJ-5GSKkjKCaE6gVSk9Owh1MX9InRXrtX",
+            "title": "Graphic Designing Course Live Classes | Class 1 | Ehsaslabs",
+            "width": 674,
+            "height": 379
+        },
+        {
+            "id": 2,
+            "src": "https://www.youtube.com/embed/u8U-IRgK-Go?list=PLJ-5GSKkjKCb9TkCu9kb8yK4hsvi7Hdzz",
+            "title": "Class 1 | Online Graphic Designing Course 2024 | Batch-6 | Ehsas Lab",
+            "width": 674,
+            "height": 379
+        },
+        {
+            "id": 3,
+            "src": "https://www.youtube.com/embed/GK6EWQOKHa0?list=PLJ-5GSKkjKCb9TkCu9kb8yK4hsvi7Hdzz",
+            "title": "Class 2 | Online Graphic Designing Course 2024 | Batch-6 | Ehsas Lab",
+            "width": 674,
+            "height": 379
+        },
+        {
+            "id": 4,
+            "src": "https://www.youtube.com/embed/3EBYuLklpg8?list=PLJ-5GSKkjKCb9TkCu9kb8yK4hsvi7Hdzz",
+            "title": "Class 3 | Online Graphic Designing Course 2024 | Batch-6 | Ehsas Lab",
+            "width": 711,
+            "height": 380
+        },
+        {
+            "id": 5,
+            "src": "https://youtu.be/tFb9kZYh21A?list=PLJ-5GSKkjKCb9TkCu9kb8yK4hsvi7Hdzz",
+            "title": "Untitled Video",
+            "width": 0,
+            "height": 0
+        }
+    ]
+    
+}
